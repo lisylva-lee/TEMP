@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Li;Runlin;;;
+FN:李润林
+ORG:示例公司
+TITLE:工程师
+TEL;TYPE=CELL:+818012345678
+EMAIL:runlin@example.com
+ADR:;;朝阳区街道;北京市;北京市;100000;China
+URL:https://example.com
+END:VCARD
